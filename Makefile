@@ -1,8 +1,11 @@
 install:
-	npm install
+		npm install
 
 start:
-	npm run babel-node -- src/bin/binary-search.js
+		npm run babel-node -- src/bin/binary-search.js
 
 publish:
-    npm publish
+		npm publish
+
+lint:
+		npm run eslint .
