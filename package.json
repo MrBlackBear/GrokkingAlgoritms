@@ -1,6 +1,6 @@
 {
   "name": "groking-black",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "binary-search": "dist/bin/binary-search.js"
+    "binary-search": "dist/bin/bin-search.js"
   },
   "files": [
     "dist"
@@ -27,5 +27,8 @@
     "eslint": "^4.18.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.9"
   }
 }

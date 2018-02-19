@@ -2,7 +2,7 @@ install:
 		npm install
 
 start:
-		npm run babel-node -- src/bin/binary-search.js
+		npm run babel-node -- src/bin/bin-search.js
 
 publish:
 		npm publish
