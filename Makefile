@@ -7,6 +7,9 @@ start:
 recursion:
 		npm run babel-node -- src/bin/bin-recursion.js
 
+selection-sort:
+		npm run babel-node -- src/bin/bin-selectionSort.js
+
 publish:
 		npm publish
 

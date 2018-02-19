@@ -1,6 +1,6 @@
 {
   "name": "groking-black",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,8 @@
   "license": "ISC",
   "bin": {
     "binary-search": "dist/bin/bin-search.js",
-    "recursion": "dist/bin/bin-recursion.js"
+    "recursion": "dist/bin/bin-recursion.js",
+    "selection-sort": "dist/bin/bin-selectionSort.js"
   },
   "files": [
     "dist"

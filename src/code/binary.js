@@ -1,6 +1,6 @@
 import readlineSync from 'readline-sync';
 import binarySearch from '../math/binary-search';
-import makeArray from '../math/makeArray';
+import makeArray from '../math/makeSortArray';
 
 const explanation = 'In this file, you have array and now you choose number from this array, and at the output you get index of this number in array \n';
 
