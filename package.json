@@ -1,6 +1,6 @@
 {
   "name": "groking-black",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "author": "mrblack_bear",
   "license": "ISC",
   "bin": {
-    "binary-search": "dist/bin/bin-search.js"
+    "binary-search": "dist/bin/bin-search.js",
+    "recursion": "dist/bin/bin-recursion.js"
   },
   "files": [
     "dist"
