@@ -10,7 +10,7 @@
     "prepublishOnly": "npm run build",
     "eslint": "eslint"
   },
-  "author": "",
+  "author": "mrblack_bear",
   "license": "ISC",
   "bin": {
     "binary-search": "dist/bin/bin-search.js"
